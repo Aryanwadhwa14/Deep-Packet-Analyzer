@@ -9,7 +9,7 @@
 #include <thread>
 #include <atomic>
 #include <memory>
-#include <functional>
+#include <functional> 
 
 namespace DPI {
 
