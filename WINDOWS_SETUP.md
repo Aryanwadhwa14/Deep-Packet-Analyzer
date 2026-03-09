@@ -1,6 +1,7 @@
 # Windows Setup Guide
 
 This guide will help you build and run the DPI Engine on Windows. Follow these steps exactly.
+More inhibited steps are given below : 
 
 ---
 
