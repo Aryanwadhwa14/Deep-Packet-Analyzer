@@ -6,6 +6,7 @@ Includes TLS Client Hello with SNI, HTTP, DNS, etc.
 
 import struct
 import random
+import pandas
 
 class PCAPWriter:
     def __init__(self, filename):
