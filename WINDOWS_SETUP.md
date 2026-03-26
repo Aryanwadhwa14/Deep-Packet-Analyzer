@@ -5,7 +5,7 @@ More inhibited steps are given below :
 
 ---
 
-## Option 1: Using Visual Studio (Recommended for Beginners)
+## Option 1: Using Visual Studio (Recommended for Beginners)   
 
 ### Step 1: Install Visual Studio
 
