@@ -16,6 +16,7 @@
 #include <iomanip>
 #include <algorithm>
 #include <optional>
+#include <math>
 
 #include "pcap_reader.h"
 #include "packet_parser.h"
