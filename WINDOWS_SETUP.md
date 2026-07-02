@@ -26,7 +26,7 @@ More inhibited steps are given below :
 
 1. Open Visual Studio 2022
 
-2. Click **"Open a local folder"**
+2. Click **"Open a local folder"**  
 
 3. Navigate to the `packet_analyzer` folder and click "Select Folder"
 
