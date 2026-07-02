@@ -8,7 +8,7 @@ More inhibited steps are given below :
 ## Option 1: Using Visual Studio (Recommended for Beginners)   
 
 ### Step 1: Install Visual Studio
-
+    
 1. Download **Visual Studio 2022 Community** (free):
    - Go to: https://visualstudio.microsoft.com/downloads/
    - Click "Free download" under Community
