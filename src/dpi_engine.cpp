@@ -5,7 +5,7 @@
 #include <chrono>
 #include <cstring> 
 
-namespace DPI {
+namespace DPI { 
 
 // ============================================================================
 // DPIEngine Implementation
