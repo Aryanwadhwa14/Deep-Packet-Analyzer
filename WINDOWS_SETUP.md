@@ -10,7 +10,7 @@ More inhibited steps are given below :
 ### Step 1: Install Visual Studio
     
 1. Download **Visual Studio 2022 Community** (free):
-   - Go to: https://visualstudio.microsoft.com/downloads/
+   - Go to: https://visualstudio.microsoft.com/downloads/ 
    - Click "Free download" under Community
 
 2. Run the installer
